@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Barclay336
+- 👀 I’m interested in Technology and fitness
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on learning how to code
+- 📫 How to reach me emailing me at barclaycollins33@gmail.com
